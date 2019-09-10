@@ -20,3 +20,6 @@ The main file that contains the CRISP-DM process for analysing Airbnb data in Va
 listings.csv
 
 The Airbnb data file that was downloaded from http://insideairbnb.com/get-the-data.html.
+
+# Licence
+Feel free to use the code and let me know if the model can be improved. If you would like to do further analysis, it is available below under a Creative Commons CC0 1.0 Universal (CC0 1.0) license.
