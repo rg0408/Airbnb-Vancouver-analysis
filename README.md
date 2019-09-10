@@ -5,7 +5,7 @@ This project explores Airbnb data for Vancouver and it aims at answering this ma
 
 This involves a Machine Learning model which results finally gives the important amenities that affect the price.
 
-A less technical article with more in-depth analysis of the project results can be found on Medium.
+A less technical article with more in-depth analysis of the project results can be found on Medium (https://medium.com/@gupta.rahul0408/identifying-most-important-amenities-affecting-the-price-of-airbnb-3a34af7e4a38).
 
 # Installation
 Clone this repo: https://github.com/atahmasb/Airbnb-Vancouver-analysis.git
